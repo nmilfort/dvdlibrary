@@ -1,0 +1,7 @@
+com/nmilfort/dvdlib/controller/DvdLibController.class
+com/nmilfort/dvdlib/ui/DvdLibView.class
+com/nmilfort/dvdlib/dao/DvdLibDao.class
+com/nmilfort/dvdlib/App.class
+com/nmilfort/dvdlib/ui/UserIOConsoleImpl.class
+com/nmilfort/dvdlib/dto/Dvd.class
+com/nmilfort/dvdlib/ui/UserIO.class
